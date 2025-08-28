@@ -2,6 +2,7 @@
 This is an enhanced GUI application for typing practice, built with Python's Tkinter, Pandas, and Matplotlib. It offers a comprehensive and interactive experience, providing real-time feedback and long-term progress tracking.
 
 Key Features
+
 Customizable Difficulty: Practice with sentences from Easy, Medium, and Hard difficulty levels.
 
 Unique Sessions: Sentences are not repeated within a single session. The test ends automatically when you've completed all sentences for your chosen difficulty.
